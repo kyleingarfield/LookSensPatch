@@ -1,0 +1,17 @@
+bin/
+obj/
+libs/
+*.dll
+*.pdb
+*.bundle
+nul
+trace.csv
+.vscode/
+Puck/
+Puck Dedicated Server/
+PuckGym/
+PuckSimSharp/
+PuckAssets/
+Sim2GameTest/
+RocketSim/
+example_mods/
